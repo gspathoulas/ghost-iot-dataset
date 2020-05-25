@@ -23,3 +23,5 @@ Specifically, the dataset consist of 12 csv files that contain data correpsondin
 - RF869 interface batches
 - Zigbee interface packets
 - Zigbee interface batches
+
+Detailed description of the dataset's fields are provided on the Description of fields.pdf
