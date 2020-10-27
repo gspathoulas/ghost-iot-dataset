@@ -24,4 +24,4 @@ Specifically, the dataset consist of 12 csv files that contain data correpsondin
 - Zigbee interface packets
 - Zigbee interface batches
 
-Detailed description of the dataset's fields are provided on the [Description of fields](https://github.com/gspathoulas/ghost-iot-dataset/blob/master/Description%20of%20fields.pdf), while the **GHOST-IoT-data-set** can be donwloaded from [here] (https://github.com/gspathoulas/ghost-iot-dataset/raw/master/data.rar)
+Detailed description of the dataset's fields are provided on the [Description of fields](https://github.com/gspathoulas/ghost-iot-dataset/blob/master/Description%20of%20fields.pdf), while the **GHOST-IoT-data-set** can be donwloaded from [here](https://github.com/gspathoulas/ghost-iot-dataset/raw/master/data.rar)
