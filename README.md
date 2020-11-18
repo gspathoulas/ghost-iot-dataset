@@ -25,3 +25,5 @@ Specifically, the dataset consist of 12 csv files that contain data correpsondin
 - Zigbee interface batches
 
 Detailed description of the dataset's fields are provided on the [Description of fields](https://github.com/gspathoulas/ghost-iot-dataset/blob/master/Description%20of%20fields.pdf), while the **GHOST-IoT-data-set** can be donwloaded from [here](https://github.com/gspathoulas/ghost-iot-dataset/raw/master/data.rar).
+
+If you are using this dataset for your research, please cite the publication: Anagnostopoulos, M.; Spathoulas, G.; Viaño, B.; Augusto-Gonzalez, J. Tracing Your Smart-Home Devices Conversations: A Real World IoT Traffic Data-Set. Sensors 2020, 20, 6600.  [DOI] (https://doi.org/10.3390/s20226600)
