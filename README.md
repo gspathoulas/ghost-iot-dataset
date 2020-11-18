@@ -26,4 +26,4 @@ Specifically, the dataset consist of 12 csv files that contain data correpsondin
 
 Detailed description of the dataset's fields are provided on the [Description of fields](https://github.com/gspathoulas/ghost-iot-dataset/blob/master/Description%20of%20fields.pdf), while the **GHOST-IoT-data-set** can be donwloaded from [here](https://github.com/gspathoulas/ghost-iot-dataset/raw/master/data.rar).
 
-If you are using this dataset for your research, please cite [the publication](https://www.mdpi.com/1424-8220/20/22/6600): Anagnostopoulos, M.; Spathoulas, G.; Viaño, B.; Augusto-Gonzalez, J. Tracing Your Smart-Home Devices Conversations: A Real World IoT Traffic Data-Set. Sensors 2020, 20, 6600.  
+If you are using this dataset for your research, please cite [the publication](https://www.mdpi.com/1424-8220/20/22/6600): Anagnostopoulos, M.; Spathoulas, G.; Viaño, B.; Augusto-Gonzalez, J. Tracing Your Smart-Home Devices Conversations: A Real World IoT Traffic Data-Set. Sensors 2020, 20, 6600.  [DOI:10.3390/s20226600](https://doi.org/10.3390/s20226600)
